@@ -1,5 +1,6 @@
 # Rozwiązania do zadań rekrutacyjnych 
-## Data wykonania: 19.11.2020
+## Aplikacja na [stanowisko](https://ansta.pl/kariera/programista/)
+### Data wykonania: 19.11.2020
 
 - #### ZADANIE 1. 
   GENERATOR KODÓW POCZTOWYCH przyjmuje 2 stringi: "79-900" i "80-155" i zwraca listę kodów pomiędzy nimi.
