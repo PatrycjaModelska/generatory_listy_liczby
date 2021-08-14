@@ -1,5 +1,5 @@
 # Rozwiązania do zadań rekrutacyjnych 
-## Aplikacja na [stanowisko](https://ansta.pl/kariera/programista/)
+## Aplikacja na [PROGRAMISTA PYTHON](https://ansta.pl/kariera/programista/)
 ### Data wykonania: 19.11.2020
 
 - #### ZADANIE 1. 
